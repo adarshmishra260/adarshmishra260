@@ -15,32 +15,18 @@
 
 | **Programming Languages** | Python 🐍 | JavaScript 🚀 | C++ 🖥️ | C 📚 |
 |---------------------------|-----------|------------------|-------|-----|
-| **Web Technologies**       | Flask 🌐  | HTML 🕸️         | CSS 🎨 |     |
-| **Databases**              | SQL 🛢️    |                  |       |     |
-| **Other Skills**           | Git 🔄    | GitHub 🐙        |       |     |
+| **Web Technologies**       | Flask 🌐  | HTML 🕸️         | CSS 🎨 | React ⚛️ |
+| **Databases**              | SQL 🛢️    | MongoDB 🍃       |       |     |
+| **Other Skills**           | Git 🔄    | GitHub 🐙        | Node.js 🟩 | Express.js 🚂 |
 
 ### Projects
 
-Feel free to explore my profile and check out some of the projects I've worked on, showcasing my skills in Python, Flask, HTML, CSS, and more! 🛠️
+Feel free to explore my profile and check out some of the projects I've worked on, showcasing my skills in Python, Flask, HTML, CSS, React, and more! 🛠️
 
-### Programming Languages & Tools
-
-#### C++
-
-- Description: Proficient in C++ programming, with experience in developing efficient and optimized solutions.
-
-#### C
-
-- Description: Solid understanding of C programming language, used for system-level programming and algorithm implementation.
-
-#### Version Control
-
-- Git 🕵️
-- GitHub 🌐
 
 ## Get in Touch
 
-- LinkedIn: [Adarsh Mishra](linkedin.com/adarshmishra26)
+- LinkedIn: [Adarsh Mishra(linkedin.com/adarshmishra26)]
 
 ## 🚀 Happy Coding!
 
