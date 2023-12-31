@@ -9,7 +9,7 @@
 - 🚀 Always eager to learn and explore new technologies 🧠
 
 <div align="center">
-  <img src="https://github.com/adarshmishra260/adarshmishra260/blob/main/DefaultMode.jpg" alt="Profile Images">
+  <img src="[https://github.com/adarshmishra260/adarshmishra260/blob/main/DefaultMode.jpg](https://drive.google.com/file/d/1395Hr3yaBISICu-4K6-U0J4qE4gm8q1L/view?usp=sharing)" alt="Profile Images">
 </div>
 
 ### My Tech Stack
