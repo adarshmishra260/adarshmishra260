@@ -5,32 +5,19 @@
 ## About Me
 
 - 🌐 Full-stack Developer
-- 💻 Proficient in Python, Flask, SQL, HTML, CSS, JavaScript
-- 🚀 Always eager to learn and explore new technologies 🧠
+- 💻 Always eager to learn and explore new technologies 🧠
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/1395Hr3yaBISICu-4K6-U0J4qE4gm8q1L/view?usp=sharing" alt="Profile Images">
+  <img src="https://github.com/adarshmishra260/adarshmishra260/blob/main/ProfileImages.jpg" alt="Profile Images">
 </div>
 
 ### My Tech Stack
 
-- ## Programming Languages:
-  - Python 🐍
-  - JavaScript 🚀
-  - C++ 🖥️
-  - C 📚
-
-- ## Web Technologies:
-  - Flask 🌐
-  - HTML 🕸️
-  - CSS 🎨
-
-- ## Databases:
-  - SQL 🛢️
-
-- ## Other Skills:
-  - Git 🔄
-  - GitHub 🐙
+| **Programming Languages** | Python 🐍 | JavaScript 🚀 | C++ 🖥️ | C 📚 |
+|---------------------------|-----------|------------------|-------|-----|
+| **Web Technologies**       | Flask 🌐  | HTML 🕸️         | CSS 🎨 |     |
+| **Databases**              | SQL 🛢️    |                  |       |     |
+| **Other Skills**           | Git 🔄    | GitHub 🐙        |       |     |
 
 ### Projects
 
@@ -38,15 +25,18 @@ Feel free to explore my profile and check out some of the projects I've worked o
 
 ### Programming Languages & Tools
 
-- ## C++
-  - Description: Proficient in C++ programming, with experience in developing efficient and optimized solutions.
-  
-- ## C
-  - Description: Solid understanding of C programming language, used for system-level programming and algorithm implementation.
+#### C++
 
-- ## Version Control:
-  - Git 🕵️
-  - GitHub 🌐
+- Description: Proficient in C++ programming, with experience in developing efficient and optimized solutions.
+
+#### C
+
+- Description: Solid understanding of C programming language, used for system-level programming and algorithm implementation.
+
+#### Version Control
+
+- Git 🕵️
+- GitHub 🌐
 
 ## Get in Touch
 
