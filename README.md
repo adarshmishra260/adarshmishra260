@@ -26,7 +26,7 @@ Feel free to explore my profile and check out some of the projects I've worked o
 
 ## Get in Touch
 
-- LinkedIn: [Adarsh Mishra(linkedin.com/adarshmishra26)]
+- LinkedIn: [Adarsh Mishra](linkedin.com/adarshmishra26)
 
 ## 🚀 Happy Coding!
 
