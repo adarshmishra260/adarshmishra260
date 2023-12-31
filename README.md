@@ -7,11 +7,10 @@
 - 🌐 Full-stack Developer
 - 💻 Proficient in Python, Flask, SQL, HTML, CSS, JavaScript
 - 🚀 Always eager to learn and explore new technologies 🧠
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/adarshmishra260/adarshmishra260/blob/main/DarkMode.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/adarshmishra260/adarshmishra260/blob/main/LightMode.png">
-  <img alt="Default" src="https://github.com/adarshmishra260/adarshmishra260/blob/main/DefaultMode.jpg">
-</picture>
+
+<div align="center">
+  <img src="https://github.com/adarshmishra260/adarshmishra260/blob/main/ProfileImages.jpg" alt="Profile Images">
+</div>
 
 ### My Tech Stack
 
@@ -52,7 +51,6 @@ Feel free to explore my profile and check out some of the projects I've worked o
 ## Get in Touch
 
 - LinkedIn: [Adarsh Mishra](linkedin.com/adarshmishra26)
-
 
 ## 🚀 Happy Coding!
 
