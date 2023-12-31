@@ -22,4 +22,5 @@
 ## Get in Touch
 
 - LinkedIn: [Adarsh Mishra](https://www.linkedin.com/in/adarshmishra26/)
-- Mail : [Adarsh Mishra](adarshmishra2608@gmail.com)
+- Email: [adarshmishra2608@gmail.com](mailto:adarshmishra2608@gmail.com)
+
