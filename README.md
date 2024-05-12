@@ -1,8 +1,6 @@
 <h2 align="left">Hi 👋! My name is Adarsh Mishra and I'm a Full Stack Developer, from India</h2>
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
